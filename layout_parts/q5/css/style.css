@@ -89,9 +89,7 @@
 .marine {
 	background-color: #2d69a3;
 	position: fixed;
-	top: 0;
-	left: 0;
-	margin-top: 10px;
-	margin-left: 10px;
+	top: 10px;
+	left: 10px;
 }
 /* 回答はここに書いてね */

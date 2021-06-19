@@ -11,10 +11,11 @@
 .q4__content__bar {
 	display: table;
 	width: 100%;
+	margin-top: 20px;
 }
 
 .q4__content__bar:first-child {
-	margin-bottom: 20px;
+	margin-top: 0;
 }
 
 .element {

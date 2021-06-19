@@ -1,18 +1,18 @@
 @charset "UTF-8";
 
 /* 回答はここに書いてね */
-.q6__box__ta {
+.q6__box__center {
 	text-align: center;
 }
 
-.q6__box__ta p {
+.q6__box__center p {
 	display: inline-block;
 	width: 90px;
 	background-color: #e6f2ff;
 	padding: 10px ;
 }
 
-.q6__box__ma {
+.q6__box__margin {
 	width: 90px;
 	padding: 10px;
 	margin: 0 auto;
